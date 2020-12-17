@@ -1,0 +1,10 @@
+name: BedWaars
+main: com.fuun_craft.BedWaars.Main
+version: 1.0
+authors: [yrezaie, parspilder]
+api-version: 1.16
+commands:
+   BW:
+      description: BedWaars
+      usage: /<command> [setwidth/setcenter]
+      permission: yourplugin.yourcommandpermission
